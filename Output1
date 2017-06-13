@@ -1,0 +1,3 @@
+S-->[Aa, b, a]
+A-->[cA', bdA', adA']
+A'-->[cA', adA', !]
